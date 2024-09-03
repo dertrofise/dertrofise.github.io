@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dertrofise.github.io/sitemap.html.gz
+Sitemap: https://dertrofise.github.io/app/sitemap.html.gz
+Sitemap: https://dertrofise.github.io/assets/sitemap.html.gz
+Sitemap: https://dertrofise.github.io/css/sitemap.html.gz
+Sitemap: https://dertrofise.github.io/includes/sitemap.html.gz
+Sitemap: https://dertrofise.github.io/item/sitemap.html.gz
+Sitemap: https://dertrofise.github.io/src/sitemap.html.gz
